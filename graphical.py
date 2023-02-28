@@ -40,8 +40,8 @@ try:
     else:
         print("given academic year results still not yet released")
         exit()
-  print(ppercentage)
-  print(fpercentage)  
+#   print(ppercentage)
+#   print(fpercentage)  
   #x=list(branch.values())
   b1=np.arange(len(branch))
   b2=[i+w for i in b1]
